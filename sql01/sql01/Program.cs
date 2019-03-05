@@ -16,7 +16,7 @@ namespace sql01
 
 //create temp sorage to hold data
             List<person> local =  connection.ImportPeople();
-
+              Console.WriteLine("test");
             
 
 
